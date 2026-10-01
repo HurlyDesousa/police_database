@@ -1,5 +1,5 @@
 /*************************************************************
-* Author:				Toby Swart
+* Author:				HurlyDesousa
 * Date: 				2018-08-13
 * Filename:				delete_db.sql
 * Description:			Deletes the police database			
